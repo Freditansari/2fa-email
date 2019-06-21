@@ -1,0 +1,24 @@
+{
+  "name": "2fa-email",
+  "version": "0.0.1",
+  "description": "2 factor authentication with email prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freditansari/2fa-email.git"
+  },
+  "keywords": [
+    "two",
+    "factor",
+    "authentication"
+  ],
+  "author": "fredy yudiawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Freditansari/2fa-email/issues"
+  },
+  "homepage": "https://github.com/Freditansari/2fa-email#readme"
+}
